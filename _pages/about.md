@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Data Scientist | ML, Bayesian Statistics, Causal Inference | TensorFlow Certified
 
 profile:
   align: right
@@ -20,9 +20,9 @@ social: true # includes social icons at the bottom of the page
 
 
 
-I am a Master's student at the University of Colorado Boulder, specializing in Applied Mathematics with a focus on `Statistics and Machine Learning`, set to graduate in May 2024. 
+I am a Master's student at the University of Colorado Boulder, specializing in Applied Mathematics with a focus on Statistics and Machine Learning, set to graduate in May 2024. 
 
-I bring over three years of professional work experience in financial data analysis and have completed multiple internships at notable organizations, including technology manufacturing at GlobalFoundries, research at Sandia National Labs, and healthcare analytics at CVS Health.
+I bring over [three years of professional work experience]() in financial data analysis and have completed multiple data science and machine learning internships at notable organizations, including technology manufacturing at [GlobalFoundries](https://gf.com), research at [Sandia National Laboratories](https://www.sandia.gov/), and healthcare analytics at [CVS Health](https://www.cvshealth.com/).
 
 Currently, I am engaged in an independent study focused on Causal Inference and its applications in data science. As my graduation approaches, I am actively seeking full-time opportunities in `Data Science and Machine Learning Engineering`, with a particular interest in MLOps.
 
