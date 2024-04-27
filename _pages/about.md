@@ -13,7 +13,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -24,7 +24,7 @@ I am a Master's student at the University of Colorado Boulder, specializing in A
 
 I bring over [three years of professional work experience]() in financial data analysis and have completed multiple data science and machine learning internships at notable organizations, including technology manufacturing at [GlobalFoundries](https://gf.com), research at [Sandia National Laboratories](https://www.sandia.gov/), and healthcare analytics at [CVS Health](https://www.cvshealth.com/).
 
-Currently, I am engaged in an independent study focused on Causal Inference and its applications in data science. As my graduation approaches, I am actively seeking full-time opportunities in `Data Science and Machine Learning Engineering`, with a particular interest in MLOps.
+Currently, I am engaged in an independent study focused on Causal Inference and its applications in data science. As my graduation approaches, I am actively seeking full-time opportunities in [Data Science and Machine Learning Engineering](), with a particular interest in MLOps.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -5,3 +5,6 @@ github_repos:
   - gregorytomy/wine-llmops
   - gregorytomy/lung-nodule-classifier
   - gregorytomy/causal-inference
+  - gregorytomy/Bayesian-Networks
+  - gregorytomy/sentiment-service
+  - gregorytomy/asset-backed-security-modelling
